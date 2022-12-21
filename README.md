@@ -71,7 +71,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Walkthrough
 
-// under construction //
+https://watch.screencastify.com/v/qKJXOlk3YIxhWf2csmbGhttps://watch.screencastify.com/v/qKJXOlk3YIxhWf2csmbG
 
 ## Contributions
 
