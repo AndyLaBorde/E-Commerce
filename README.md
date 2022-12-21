@@ -58,7 +58,14 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Mock Up
 
-// under construction //
+#### GET all products
+![GET all products](images/products_screenshot.png)
+
+#### GET all categories
+![GET all categories](images/categories_screenshot.png)
+
+#### GET all tags
+![GET all tags](images/tags_screenshot.png)
 
 ## Walkthrough
 
